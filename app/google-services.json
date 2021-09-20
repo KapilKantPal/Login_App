@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940393859418",
+    "project_id": "login-app-ef1de",
+    "storage_bucket": "login-app-ef1de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940393859418:android:231272af71e0df22d08b63",
+        "android_client_info": {
+          "package_name": "com.programmingmanav.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940393859418-gfc9rokuau0puvenrhvpss75ne0e5ran.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmingmanav.loginapp",
+            "certificate_hash": "60f13cf2683242a4d351ed8ccb03480ae0404b68"
+          }
+        },
+        {
+          "client_id": "940393859418-8u4hhegsh9b1lmnplqqqnp519bdtq3vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUADzcJ252HHNYnCEKuIk0SQORid9HmLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940393859418-8u4hhegsh9b1lmnplqqqnp519bdtq3vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
